@@ -6,8 +6,8 @@ Vidéo de Démonstration
 Pour une démonstration complète, veuillez consulter la vidéo suivante : 
 
 
-assets/Project 2.mp4
-
+[assets/Project 2.mp4
+](https://github.com/Imane049/TP_JAX-RS-JAXB/blob/main/assets/Project%202.mp4)
 
 1. Récupérer tous les comptes
 curl -X GET "http://localhost:8082/banque/comptes" -H "Accept: application/xml"
